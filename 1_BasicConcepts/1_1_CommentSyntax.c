@@ -1,16 +1,3 @@
-# C Programming
-
-## Contents:  
-1.0  Basics  
-2.0 
-## Compiling C in Linux 
-```
-gcc file.c 
-./a.out
-```
-## 1.0 Basics 
-## 1.1 Commenting, `printf`, `scanf`, syntax in C 
-```c
 /*
  * Multi-Line Commenting Style 
  */
@@ -29,5 +16,3 @@ int main()
 	
 	return 0;
 }
-```
-<p align="center">Listing 1: Basics in C</p>
